@@ -1,0 +1,5 @@
+requests
+pycrypto
+cryptography
+gmpy2
+pyasn1
